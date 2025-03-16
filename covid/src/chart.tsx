@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Area, AreaChart, CartesianGrid, Tooltip, XAxis, YAxis } from "recharts";
+import { Area, AreaChart, CartesianGrid, ReferenceLine, Tooltip, XAxis, YAxis } from "recharts";
 
 export const ChartComponent = () => {
   const [data, setData] = useState([
@@ -43,7 +43,7 @@ export const ChartComponent = () => {
   useEffect(() => {
     const updateDimensions = () => {
       const width = window.innerWidth * 0.9;
-      const height = window.innerHeight * 0.6;
+      const height = window.innerHeight * 0.7;
       setChartDimensions({ width, height });
     };
 
@@ -75,7 +75,7 @@ export const ChartComponent = () => {
         width={chartDimensions.width}
         height={chartDimensions.height}
         data={data}
-        margin={{ top: 10, right: 30, left: 0, bottom: 0 }}
+        margin={{ top: 30, right: 30, left: 0, bottom: 0 }}
       >
         <defs>
           <linearGradient id="colorConfirmed" x1="0" y1="0" x2="0" y2="1">
@@ -132,6 +132,30 @@ export const ChartComponent = () => {
             fill="url(#colorFirstDose)"
           />
         )}
+        <ReferenceLine
+          x="2020-08-17"
+          stroke="#f472b6"
+          strokeDasharray="3 3"
+          label={{
+            value: "Início do uso de Ivermectina",
+            position: "top",
+            fill: "#f472b6",
+            fontSize: 12,
+            offset: 10,
+          }}
+        />
+        <ReferenceLine
+          x="2021-06-08"
+          stroke="#72f47b"
+          strokeDasharray="3 3"
+          label={{
+            value: "21.437 doses aplicadas",
+            position: "top",
+            fill: "#72f47b",
+            fontSize: 12,
+            offset: 10,
+          }}
+        />
       </AreaChart>
     </div>
   );

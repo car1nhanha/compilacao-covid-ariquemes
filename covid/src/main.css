@@ -3,17 +3,10 @@
   font-style: normal;
 }
 
-/* Layout and containers */
-/* Reset and base styles */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
-    "Helvetica Neue", sans-serif;
 }
 
 /* Layout and containers */
@@ -66,7 +59,7 @@ body {
   border-radius: 0.5rem;
   padding: 1rem;
   width: 100%;
-  height: 100%;
+  margin-bottom: 2rem;
 }
 
 .chart-wrapper {
@@ -101,39 +94,115 @@ body {
   color: #c084fc;
 }
 
-/* Metrics grid */
-.metrics-grid {
-  margin-top: 1rem;
+/* Content grid */
+.content-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  background-color: rgba(55, 65, 81, 0.5);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
 }
 
-.metric-card {
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.text-content {
+  color: #f3f4f6;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.text-content h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #e5e7eb;
+}
+
+.text-content h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 1.5rem 0 0.75rem;
+  color: #e5e7eb;
+}
+
+.text-content p {
+  margin-bottom: 1rem;
+}
+
+.text-content ul {
+  list-style-type: none;
+  margin: 1rem 0;
+}
+
+.text-content li {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.text-content li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #a855f7;
+}
+
+.date {
+  color: #94a3b8;
+  margin-bottom: 1.5rem;
+}
+
+/* Sources */
+.sources {
   background-color: rgba(55, 65, 81, 0.3);
   border-radius: 0.5rem;
-  padding: 1rem;
-  cursor: pointer;
-  transition: all 0.2s ease;
+  padding: 1.5rem;
 }
 
-.metric-card:hover {
-  background-color: rgba(55, 65, 81, 0.5);
+.sources h3 {
+  color: #e5e7eb;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
 }
 
-.metric-title {
-  font-weight: 600;
-  margin-bottom: 0.25rem;
+.sources ul {
+  list-style-type: none;
 }
 
-.metric-title.uv {
-  color: #c084fc;
+.sources li {
+  margin-bottom: 0.75rem;
 }
 
-.metric-title.pv {
-  color: #86efac;
+.sources a {
+  color: #93c5fd;
+  text-decoration: none;
+  transition: color 0.2s ease;
 }
 
-.metric-description {
-  color: #d1d5db;
+.sources a:hover {
+  color: #60a5fa;
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .video-container {
+    margin-bottom: 1.5rem;
+  }
+
+  .video-container iframe {
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+  }
 }
