@@ -1,0 +1,4304 @@
+[
+  {
+    "date": "2020-04-10",
+    "amount_confirmed": 2,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-11",
+    "amount_confirmed": 2,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-12",
+    "amount_confirmed": 7,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-13",
+    "amount_confirmed": 7,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-14",
+    "amount_confirmed": 7,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-15",
+    "amount_confirmed": 7,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-16",
+    "amount_confirmed": 16,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-17",
+    "amount_confirmed": 21,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-18",
+    "amount_confirmed": 21,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-19",
+    "amount_confirmed": 30,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-20",
+    "amount_confirmed": 44,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-21",
+    "amount_confirmed": 39,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-22",
+    "amount_confirmed": 39,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-23",
+    "amount_confirmed": 47,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-24",
+    "amount_confirmed": 48,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-25",
+    "amount_confirmed": 49,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-26",
+    "amount_confirmed": 60,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-27",
+    "amount_confirmed": 62,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-28",
+    "amount_confirmed": 62,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-29",
+    "amount_confirmed": 64,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-04-30",
+    "amount_confirmed": 69,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-01",
+    "amount_confirmed": 77,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-02",
+    "amount_confirmed": 84,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-03",
+    "amount_confirmed": 89,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-04",
+    "amount_confirmed": 89,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-05",
+    "amount_confirmed": 88,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-06",
+    "amount_confirmed": 95,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-07",
+    "amount_confirmed": 119,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-08",
+    "amount_confirmed": 120,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-09",
+    "amount_confirmed": 121,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-10",
+    "amount_confirmed": 123,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-11",
+    "amount_confirmed": 124,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-12",
+    "amount_confirmed": 127,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-13",
+    "amount_confirmed": 130,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-14",
+    "amount_confirmed": 136,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-15",
+    "amount_confirmed": 144,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-16",
+    "amount_confirmed": 149,
+    "amount_deaths": 0,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-17",
+    "amount_confirmed": 152,
+    "amount_deaths": 1,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-18",
+    "amount_confirmed": 162,
+    "amount_deaths": 1,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-19",
+    "amount_confirmed": 171,
+    "amount_deaths": 2,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-20",
+    "amount_confirmed": 191,
+    "amount_deaths": 2,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-21",
+    "amount_confirmed": 191,
+    "amount_deaths": 2,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-22",
+    "amount_confirmed": 219,
+    "amount_deaths": 3,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-23",
+    "amount_confirmed": 230,
+    "amount_deaths": 3,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-24",
+    "amount_confirmed": 234,
+    "amount_deaths": 3,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-25",
+    "amount_confirmed": 241,
+    "amount_deaths": 3,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-26",
+    "amount_confirmed": 256,
+    "amount_deaths": 4,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-27",
+    "amount_confirmed": 283,
+    "amount_deaths": 4,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-28",
+    "amount_confirmed": 317,
+    "amount_deaths": 4,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-29",
+    "amount_confirmed": 320,
+    "amount_deaths": 4,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-30",
+    "amount_confirmed": 332,
+    "amount_deaths": 4,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-05-31",
+    "amount_confirmed": 361,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-01",
+    "amount_confirmed": 361,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-02",
+    "amount_confirmed": 391,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-03",
+    "amount_confirmed": 426,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-04",
+    "amount_confirmed": 466,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-05",
+    "amount_confirmed": 485,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-06",
+    "amount_confirmed": 518,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-07",
+    "amount_confirmed": 550,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-08",
+    "amount_confirmed": 568,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-09",
+    "amount_confirmed": 568,
+    "amount_deaths": 5,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-10",
+    "amount_confirmed": 620,
+    "amount_deaths": 7,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-11",
+    "amount_confirmed": 669,
+    "amount_deaths": 8,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-12",
+    "amount_confirmed": 674,
+    "amount_deaths": 8,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-13",
+    "amount_confirmed": 683,
+    "amount_deaths": 9,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-14",
+    "amount_confirmed": 730,
+    "amount_deaths": 10,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-15",
+    "amount_confirmed": 749,
+    "amount_deaths": 11,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-16",
+    "amount_confirmed": 813,
+    "amount_deaths": 12,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-17",
+    "amount_confirmed": 817,
+    "amount_deaths": 13,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-18",
+    "amount_confirmed": 817,
+    "amount_deaths": 14,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-19",
+    "amount_confirmed": 873,
+    "amount_deaths": 17,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-20",
+    "amount_confirmed": 907,
+    "amount_deaths": 17,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-21",
+    "amount_confirmed": 918,
+    "amount_deaths": 19,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-22",
+    "amount_confirmed": 983,
+    "amount_deaths": 19,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-23",
+    "amount_confirmed": 1001,
+    "amount_deaths": 19,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-24",
+    "amount_confirmed": 1095,
+    "amount_deaths": 20,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-25",
+    "amount_confirmed": 1115,
+    "amount_deaths": 20,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-26",
+    "amount_confirmed": 1187,
+    "amount_deaths": 20,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-27",
+    "amount_confirmed": 1191,
+    "amount_deaths": 20,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-28",
+    "amount_confirmed": 1195,
+    "amount_deaths": 20,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-29",
+    "amount_confirmed": 1236,
+    "amount_deaths": 20,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-06-30",
+    "amount_confirmed": 1316,
+    "amount_deaths": 21,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-01",
+    "amount_confirmed": 1356,
+    "amount_deaths": 22,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-02",
+    "amount_confirmed": 1390,
+    "amount_deaths": 22,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-03",
+    "amount_confirmed": 1464,
+    "amount_deaths": 22,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-04",
+    "amount_confirmed": 1464,
+    "amount_deaths": 22,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-05",
+    "amount_confirmed": 1511,
+    "amount_deaths": 22,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-06",
+    "amount_confirmed": 1514,
+    "amount_deaths": 23,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-07",
+    "amount_confirmed": 1530,
+    "amount_deaths": 23,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-08",
+    "amount_confirmed": 1562,
+    "amount_deaths": 23,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-09",
+    "amount_confirmed": 1567,
+    "amount_deaths": 23,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-10",
+    "amount_confirmed": 1590,
+    "amount_deaths": 24,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-11",
+    "amount_confirmed": 1622,
+    "amount_deaths": 25,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-12",
+    "amount_confirmed": 1702,
+    "amount_deaths": 27,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-13",
+    "amount_confirmed": 1731,
+    "amount_deaths": 29,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-14",
+    "amount_confirmed": 1748,
+    "amount_deaths": 30,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-15",
+    "amount_confirmed": 1800,
+    "amount_deaths": 31,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-16",
+    "amount_confirmed": 1817,
+    "amount_deaths": 31,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-17",
+    "amount_confirmed": 1817,
+    "amount_deaths": 32,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-18",
+    "amount_confirmed": 1817,
+    "amount_deaths": 32,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-19",
+    "amount_confirmed": 1817,
+    "amount_deaths": 32,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-20",
+    "amount_confirmed": 1890,
+    "amount_deaths": 33,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-21",
+    "amount_confirmed": 2047,
+    "amount_deaths": 35,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-22",
+    "amount_confirmed": 2216,
+    "amount_deaths": 35,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-23",
+    "amount_confirmed": 2234,
+    "amount_deaths": 37,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-24",
+    "amount_confirmed": 2291,
+    "amount_deaths": 38,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-25",
+    "amount_confirmed": 2291,
+    "amount_deaths": 38,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-26",
+    "amount_confirmed": 2373,
+    "amount_deaths": 38,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-27",
+    "amount_confirmed": 2378,
+    "amount_deaths": 39,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-28",
+    "amount_confirmed": 2483,
+    "amount_deaths": 40,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-29",
+    "amount_confirmed": 2526,
+    "amount_deaths": 40,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-30",
+    "amount_confirmed": 2562,
+    "amount_deaths": 41,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-07-31",
+    "amount_confirmed": 2627,
+    "amount_deaths": 41,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-01",
+    "amount_confirmed": 2648,
+    "amount_deaths": 41,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-02",
+    "amount_confirmed": 2712,
+    "amount_deaths": 41,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-03",
+    "amount_confirmed": 2758,
+    "amount_deaths": 42,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-04",
+    "amount_confirmed": 2826,
+    "amount_deaths": 42,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-05",
+    "amount_confirmed": 2967,
+    "amount_deaths": 45,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-06",
+    "amount_confirmed": 3064,
+    "amount_deaths": 48,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-07",
+    "amount_confirmed": 3170,
+    "amount_deaths": 49,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-08",
+    "amount_confirmed": 3194,
+    "amount_deaths": 49,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-09",
+    "amount_confirmed": 3219,
+    "amount_deaths": 51,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-10",
+    "amount_confirmed": 3264,
+    "amount_deaths": 51,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-11",
+    "amount_confirmed": 3293,
+    "amount_deaths": 52,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-12",
+    "amount_confirmed": 3346,
+    "amount_deaths": 56,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-13",
+    "amount_confirmed": 3508,
+    "amount_deaths": 57,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-14",
+    "amount_confirmed": 3626,
+    "amount_deaths": 58,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-15",
+    "amount_confirmed": 3707,
+    "amount_deaths": 60,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-16",
+    "amount_confirmed": 3728,
+    "amount_deaths": 60,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-17",
+    "amount_confirmed": 3786,
+    "amount_deaths": 61,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-18",
+    "amount_confirmed": 3828,
+    "amount_deaths": 61,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-19",
+    "amount_confirmed": 3828,
+    "amount_deaths": 61,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-20",
+    "amount_confirmed": 3971,
+    "amount_deaths": 63,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-21",
+    "amount_confirmed": 4024,
+    "amount_deaths": 63,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-22",
+    "amount_confirmed": 4101,
+    "amount_deaths": 64,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-23",
+    "amount_confirmed": 4207,
+    "amount_deaths": 66,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-24",
+    "amount_confirmed": 4145,
+    "amount_deaths": 66,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-25",
+    "amount_confirmed": 4238,
+    "amount_deaths": 69,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-26",
+    "amount_confirmed": 4277,
+    "amount_deaths": 71,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-27",
+    "amount_confirmed": 4325,
+    "amount_deaths": 71,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-28",
+    "amount_confirmed": 4362,
+    "amount_deaths": 73,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-29",
+    "amount_confirmed": 4429,
+    "amount_deaths": 75,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-30",
+    "amount_confirmed": 4468,
+    "amount_deaths": 75,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-08-31",
+    "amount_confirmed": 4483,
+    "amount_deaths": 76,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-01",
+    "amount_confirmed": 4540,
+    "amount_deaths": 78,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-02",
+    "amount_confirmed": 4638,
+    "amount_deaths": 78,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-03",
+    "amount_confirmed": 4642,
+    "amount_deaths": 79,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-04",
+    "amount_confirmed": 4719,
+    "amount_deaths": 79,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-05",
+    "amount_confirmed": 4779,
+    "amount_deaths": 80,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-06",
+    "amount_confirmed": 4781,
+    "amount_deaths": 80,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-07",
+    "amount_confirmed": 4829,
+    "amount_deaths": 81,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-08",
+    "amount_confirmed": 4841,
+    "amount_deaths": 81,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-09",
+    "amount_confirmed": 4868,
+    "amount_deaths": 81,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-10",
+    "amount_confirmed": 4916,
+    "amount_deaths": 81,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-11",
+    "amount_confirmed": 4937,
+    "amount_deaths": 81,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-12",
+    "amount_confirmed": 4964,
+    "amount_deaths": 82,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-13",
+    "amount_confirmed": 4987,
+    "amount_deaths": 84,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-14",
+    "amount_confirmed": 5000,
+    "amount_deaths": 84,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-15",
+    "amount_confirmed": 5044,
+    "amount_deaths": 84,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-16",
+    "amount_confirmed": 5100,
+    "amount_deaths": 84,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-17",
+    "amount_confirmed": 5109,
+    "amount_deaths": 85,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-18",
+    "amount_confirmed": 5134,
+    "amount_deaths": 86,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-19",
+    "amount_confirmed": 5148,
+    "amount_deaths": 86,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-20",
+    "amount_confirmed": 5181,
+    "amount_deaths": 86,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-21",
+    "amount_confirmed": 5217,
+    "amount_deaths": 87,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-22",
+    "amount_confirmed": 5236,
+    "amount_deaths": 87,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-23",
+    "amount_confirmed": 5290,
+    "amount_deaths": 88,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-24",
+    "amount_confirmed": 5304,
+    "amount_deaths": 88,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-25",
+    "amount_confirmed": 5342,
+    "amount_deaths": 88,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-26",
+    "amount_confirmed": 5363,
+    "amount_deaths": 88,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-27",
+    "amount_confirmed": 5430,
+    "amount_deaths": 88,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-28",
+    "amount_confirmed": 5440,
+    "amount_deaths": 89,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-29",
+    "amount_confirmed": 5451,
+    "amount_deaths": 90,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-09-30",
+    "amount_confirmed": 5493,
+    "amount_deaths": 90,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-01",
+    "amount_confirmed": 5509,
+    "amount_deaths": 93,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-02",
+    "amount_confirmed": 5506,
+    "amount_deaths": 93,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-03",
+    "amount_confirmed": 5519,
+    "amount_deaths": 93,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-04",
+    "amount_confirmed": 5524,
+    "amount_deaths": 93,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-05",
+    "amount_confirmed": 5525,
+    "amount_deaths": 93,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-06",
+    "amount_confirmed": 5536,
+    "amount_deaths": 93,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-07",
+    "amount_confirmed": 5522,
+    "amount_deaths": 93,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-08",
+    "amount_confirmed": 5542,
+    "amount_deaths": 93,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-09",
+    "amount_confirmed": 5548,
+    "amount_deaths": 94,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-10",
+    "amount_confirmed": 5561,
+    "amount_deaths": 94,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-11",
+    "amount_confirmed": 5574,
+    "amount_deaths": 94,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-12",
+    "amount_confirmed": 5580,
+    "amount_deaths": 94,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-13",
+    "amount_confirmed": 5580,
+    "amount_deaths": 94,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-14",
+    "amount_confirmed": 5620,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-15",
+    "amount_confirmed": 5624,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-16",
+    "amount_confirmed": 5624,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-17",
+    "amount_confirmed": 5642,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-18",
+    "amount_confirmed": 5642,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-19",
+    "amount_confirmed": 5655,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-20",
+    "amount_confirmed": 5655,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-21",
+    "amount_confirmed": 5673,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-22",
+    "amount_confirmed": 5673,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-23",
+    "amount_confirmed": 5673,
+    "amount_deaths": 95,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-24",
+    "amount_confirmed": 5719,
+    "amount_deaths": 96,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-25",
+    "amount_confirmed": 5721,
+    "amount_deaths": 96,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-26",
+    "amount_confirmed": 5744,
+    "amount_deaths": 98,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-27",
+    "amount_confirmed": 5758,
+    "amount_deaths": 98,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-28",
+    "amount_confirmed": 5790,
+    "amount_deaths": 98,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-29",
+    "amount_confirmed": 5810,
+    "amount_deaths": 98,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-30",
+    "amount_confirmed": 5825,
+    "amount_deaths": 98,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-10-31",
+    "amount_confirmed": 5831,
+    "amount_deaths": 99,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-01",
+    "amount_confirmed": 5840,
+    "amount_deaths": 99,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-02",
+    "amount_confirmed": 5842,
+    "amount_deaths": 99,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-03",
+    "amount_confirmed": 5854,
+    "amount_deaths": 100,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-04",
+    "amount_confirmed": 5854,
+    "amount_deaths": 100,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-05",
+    "amount_confirmed": 5854,
+    "amount_deaths": 100,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-06",
+    "amount_confirmed": 5854,
+    "amount_deaths": 100,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-07",
+    "amount_confirmed": 5854,
+    "amount_deaths": 100,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-08",
+    "amount_confirmed": 5946,
+    "amount_deaths": 100,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-09",
+    "amount_confirmed": 5962,
+    "amount_deaths": 100,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-10",
+    "amount_confirmed": 5991,
+    "amount_deaths": 101,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-11",
+    "amount_confirmed": 6009,
+    "amount_deaths": 101,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-12",
+    "amount_confirmed": 6027,
+    "amount_deaths": 101,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-13",
+    "amount_confirmed": 6046,
+    "amount_deaths": 101,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-14",
+    "amount_confirmed": 6071,
+    "amount_deaths": 101,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-15",
+    "amount_confirmed": 6080,
+    "amount_deaths": 101,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-16",
+    "amount_confirmed": 6089,
+    "amount_deaths": 102,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-17",
+    "amount_confirmed": 6105,
+    "amount_deaths": 102,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-18",
+    "amount_confirmed": 6123,
+    "amount_deaths": 102,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-19",
+    "amount_confirmed": 6133,
+    "amount_deaths": 102,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-20",
+    "amount_confirmed": 6153,
+    "amount_deaths": 102,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-21",
+    "amount_confirmed": 6161,
+    "amount_deaths": 103,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-22",
+    "amount_confirmed": 6194,
+    "amount_deaths": 104,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-23",
+    "amount_confirmed": 6194,
+    "amount_deaths": 105,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-24",
+    "amount_confirmed": 6239,
+    "amount_deaths": 105,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-25",
+    "amount_confirmed": 6241,
+    "amount_deaths": 106,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-26",
+    "amount_confirmed": 6280,
+    "amount_deaths": 106,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-27",
+    "amount_confirmed": 6280,
+    "amount_deaths": 106,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-28",
+    "amount_confirmed": 6280,
+    "amount_deaths": 106,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-29",
+    "amount_confirmed": 6345,
+    "amount_deaths": 108,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-11-30",
+    "amount_confirmed": 6371,
+    "amount_deaths": 108,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-01",
+    "amount_confirmed": 6398,
+    "amount_deaths": 109,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-02",
+    "amount_confirmed": 6434,
+    "amount_deaths": 111,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-03",
+    "amount_confirmed": 6475,
+    "amount_deaths": 111,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-04",
+    "amount_confirmed": 6510,
+    "amount_deaths": 111,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-05",
+    "amount_confirmed": 6513,
+    "amount_deaths": 111,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-06",
+    "amount_confirmed": 6557,
+    "amount_deaths": 112,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-07",
+    "amount_confirmed": 6599,
+    "amount_deaths": 112,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-08",
+    "amount_confirmed": 6665,
+    "amount_deaths": 112,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-09",
+    "amount_confirmed": 6704,
+    "amount_deaths": 114,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-10",
+    "amount_confirmed": 6704,
+    "amount_deaths": 114,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-11",
+    "amount_confirmed": 6760,
+    "amount_deaths": 114,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-12",
+    "amount_confirmed": 6760,
+    "amount_deaths": 114,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-13",
+    "amount_confirmed": 6800,
+    "amount_deaths": 117,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-14",
+    "amount_confirmed": 6820,
+    "amount_deaths": 117,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-15",
+    "amount_confirmed": 6860,
+    "amount_deaths": 117,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-16",
+    "amount_confirmed": 6962,
+    "amount_deaths": 119,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-17",
+    "amount_confirmed": 6997,
+    "amount_deaths": 120,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-18",
+    "amount_confirmed": 7071,
+    "amount_deaths": 121,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-19",
+    "amount_confirmed": 7086,
+    "amount_deaths": 122,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-20",
+    "amount_confirmed": 7135,
+    "amount_deaths": 122,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-21",
+    "amount_confirmed": 7241,
+    "amount_deaths": 122,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-22",
+    "amount_confirmed": 7324,
+    "amount_deaths": 122,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-23",
+    "amount_confirmed": 7376,
+    "amount_deaths": 122,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-24",
+    "amount_confirmed": 7457,
+    "amount_deaths": 123,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-25",
+    "amount_confirmed": 7508,
+    "amount_deaths": 124,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-26",
+    "amount_confirmed": 7523,
+    "amount_deaths": 124,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-27",
+    "amount_confirmed": 7523,
+    "amount_deaths": 124,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-28",
+    "amount_confirmed": 7664,
+    "amount_deaths": 125,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-29",
+    "amount_confirmed": 7664,
+    "amount_deaths": 125,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-30",
+    "amount_confirmed": 7788,
+    "amount_deaths": 133,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2020-12-31",
+    "amount_confirmed": 7870,
+    "amount_deaths": 134,
+    "first_dose_cumulative": 0
+  },
+  {
+    "date": "2021-01-01",
+    "amount_confirmed": 7918,
+    "amount_deaths": 137,
+    "first_dose_cumulative": 1
+  },
+  {
+    "date": "2021-01-02",
+    "amount_confirmed": 7931,
+    "amount_deaths": 137,
+    "first_dose_cumulative": 1
+  },
+  {
+    "date": "2021-01-03",
+    "amount_confirmed": 8022,
+    "amount_deaths": 141,
+    "first_dose_cumulative": 1
+  },
+  {
+    "date": "2021-01-04",
+    "amount_confirmed": 8032,
+    "amount_deaths": 143,
+    "first_dose_cumulative": 1
+  },
+  {
+    "date": "2021-01-05",
+    "amount_confirmed": 8086,
+    "amount_deaths": 146,
+    "first_dose_cumulative": 1
+  },
+  {
+    "date": "2021-01-06",
+    "amount_confirmed": 8183,
+    "amount_deaths": 148,
+    "first_dose_cumulative": 1
+  },
+  {
+    "date": "2021-01-07",
+    "amount_confirmed": 8225,
+    "amount_deaths": 151,
+    "first_dose_cumulative": 2
+  },
+  {
+    "date": "2021-01-08",
+    "amount_confirmed": 8294,
+    "amount_deaths": 152,
+    "first_dose_cumulative": 2
+  },
+  {
+    "date": "2021-01-09",
+    "amount_confirmed": 8323,
+    "amount_deaths": 153,
+    "first_dose_cumulative": 2
+  },
+  {
+    "date": "2021-01-10",
+    "amount_confirmed": 8430,
+    "amount_deaths": 154,
+    "first_dose_cumulative": 2
+  },
+  {
+    "date": "2021-01-11",
+    "amount_confirmed": 8472,
+    "amount_deaths": 154,
+    "first_dose_cumulative": 2
+  },
+  {
+    "date": "2021-01-12",
+    "amount_confirmed": 8579,
+    "amount_deaths": 154,
+    "first_dose_cumulative": 4
+  },
+  {
+    "date": "2021-01-13",
+    "amount_confirmed": 8579,
+    "amount_deaths": 154,
+    "first_dose_cumulative": 4
+  },
+  {
+    "date": "2021-01-14",
+    "amount_confirmed": 8685,
+    "amount_deaths": 157,
+    "first_dose_cumulative": 4
+  },
+  {
+    "date": "2021-01-15",
+    "amount_confirmed": 8855,
+    "amount_deaths": 158,
+    "first_dose_cumulative": 4
+  },
+  {
+    "date": "2021-01-16",
+    "amount_confirmed": 8937,
+    "amount_deaths": 159,
+    "first_dose_cumulative": 4
+  },
+  {
+    "date": "2021-01-17",
+    "amount_confirmed": 9010,
+    "amount_deaths": 160,
+    "first_dose_cumulative": 4
+  },
+  {
+    "date": "2021-01-18",
+    "amount_confirmed": 9052,
+    "amount_deaths": 163,
+    "first_dose_cumulative": 5
+  },
+  {
+    "date": "2021-01-19",
+    "amount_confirmed": 9061,
+    "amount_deaths": 164,
+    "first_dose_cumulative": 7
+  },
+  {
+    "date": "2021-01-20",
+    "amount_confirmed": 9136,
+    "amount_deaths": 164,
+    "first_dose_cumulative": 16
+  },
+  {
+    "date": "2021-01-21",
+    "amount_confirmed": 9282,
+    "amount_deaths": 164,
+    "first_dose_cumulative": 164
+  },
+  {
+    "date": "2021-01-22",
+    "amount_confirmed": 9449,
+    "amount_deaths": 165,
+    "first_dose_cumulative": 323
+  },
+  {
+    "date": "2021-01-23",
+    "amount_confirmed": 9461,
+    "amount_deaths": 167,
+    "first_dose_cumulative": 373
+  },
+  {
+    "date": "2021-01-24",
+    "amount_confirmed": 9647,
+    "amount_deaths": 169,
+    "first_dose_cumulative": 411
+  },
+  {
+    "date": "2021-01-25",
+    "amount_confirmed": 9654,
+    "amount_deaths": 169,
+    "first_dose_cumulative": 487
+  },
+  {
+    "date": "2021-01-26",
+    "amount_confirmed": 9654,
+    "amount_deaths": 171,
+    "first_dose_cumulative": 577
+  },
+  {
+    "date": "2021-01-27",
+    "amount_confirmed": 9811,
+    "amount_deaths": 171,
+    "first_dose_cumulative": 707
+  },
+  {
+    "date": "2021-01-28",
+    "amount_confirmed": 9855,
+    "amount_deaths": 172,
+    "first_dose_cumulative": 781
+  },
+  {
+    "date": "2021-01-29",
+    "amount_confirmed": 10025,
+    "amount_deaths": 178,
+    "first_dose_cumulative": 826
+  },
+  {
+    "date": "2021-01-30",
+    "amount_confirmed": 10052,
+    "amount_deaths": 179,
+    "first_dose_cumulative": 845
+  },
+  {
+    "date": "2021-01-31",
+    "amount_confirmed": 10227,
+    "amount_deaths": 185,
+    "first_dose_cumulative": 883
+  },
+  {
+    "date": "2021-02-01",
+    "amount_confirmed": 10227,
+    "amount_deaths": 186,
+    "first_dose_cumulative": 960
+  },
+  {
+    "date": "2021-02-02",
+    "amount_confirmed": 10331,
+    "amount_deaths": 188,
+    "first_dose_cumulative": 996
+  },
+  {
+    "date": "2021-02-03",
+    "amount_confirmed": 10425,
+    "amount_deaths": 188,
+    "first_dose_cumulative": 1073
+  },
+  {
+    "date": "2021-02-04",
+    "amount_confirmed": 10484,
+    "amount_deaths": 189,
+    "first_dose_cumulative": 1110
+  },
+  {
+    "date": "2021-02-05",
+    "amount_confirmed": 10484,
+    "amount_deaths": 189,
+    "first_dose_cumulative": 1148
+  },
+  {
+    "date": "2021-02-06",
+    "amount_confirmed": 10581,
+    "amount_deaths": 191,
+    "first_dose_cumulative": 1148
+  },
+  {
+    "date": "2021-02-07",
+    "amount_confirmed": 10700,
+    "amount_deaths": 190,
+    "first_dose_cumulative": 1148
+  },
+  {
+    "date": "2021-02-08",
+    "amount_confirmed": 10735,
+    "amount_deaths": 193,
+    "first_dose_cumulative": 1168
+  },
+  {
+    "date": "2021-02-09",
+    "amount_confirmed": 10845,
+    "amount_deaths": 193,
+    "first_dose_cumulative": 1371
+  },
+  {
+    "date": "2021-02-10",
+    "amount_confirmed": 10927,
+    "amount_deaths": 193,
+    "first_dose_cumulative": 1645
+  },
+  {
+    "date": "2021-02-11",
+    "amount_confirmed": 10950,
+    "amount_deaths": 195,
+    "first_dose_cumulative": 1871
+  },
+  {
+    "date": "2021-02-12",
+    "amount_confirmed": 11057,
+    "amount_deaths": 196,
+    "first_dose_cumulative": 2028
+  },
+  {
+    "date": "2021-02-13",
+    "amount_confirmed": 11054,
+    "amount_deaths": 196,
+    "first_dose_cumulative": 2031
+  },
+  {
+    "date": "2021-02-14",
+    "amount_confirmed": 11185,
+    "amount_deaths": 200,
+    "first_dose_cumulative": 2031
+  },
+  {
+    "date": "2021-02-15",
+    "amount_confirmed": 11185,
+    "amount_deaths": 200,
+    "first_dose_cumulative": 2042
+  },
+  {
+    "date": "2021-02-16",
+    "amount_confirmed": 11186,
+    "amount_deaths": 200,
+    "first_dose_cumulative": 2049
+  },
+  {
+    "date": "2021-02-17",
+    "amount_confirmed": 11275,
+    "amount_deaths": 204,
+    "first_dose_cumulative": 2075
+  },
+  {
+    "date": "2021-02-18",
+    "amount_confirmed": 11445,
+    "amount_deaths": 205,
+    "first_dose_cumulative": 2131
+  },
+  {
+    "date": "2021-02-19",
+    "amount_confirmed": 11479,
+    "amount_deaths": 205,
+    "first_dose_cumulative": 2219
+  },
+  {
+    "date": "2021-02-20",
+    "amount_confirmed": 11485,
+    "amount_deaths": 207,
+    "first_dose_cumulative": 2225
+  },
+  {
+    "date": "2021-02-21",
+    "amount_confirmed": 11606,
+    "amount_deaths": 208,
+    "first_dose_cumulative": 2226
+  },
+  {
+    "date": "2021-02-22",
+    "amount_confirmed": 11649,
+    "amount_deaths": 210,
+    "first_dose_cumulative": 2256
+  },
+  {
+    "date": "2021-02-23",
+    "amount_confirmed": 11846,
+    "amount_deaths": 210,
+    "first_dose_cumulative": 2271
+  },
+  {
+    "date": "2021-02-24",
+    "amount_confirmed": 11997,
+    "amount_deaths": 214,
+    "first_dose_cumulative": 2302
+  },
+  {
+    "date": "2021-02-25",
+    "amount_confirmed": 12129,
+    "amount_deaths": 210,
+    "first_dose_cumulative": 2335
+  },
+  {
+    "date": "2021-02-26",
+    "amount_confirmed": 12300,
+    "amount_deaths": 212,
+    "first_dose_cumulative": 2338
+  },
+  {
+    "date": "2021-02-27",
+    "amount_confirmed": 12313,
+    "amount_deaths": 214,
+    "first_dose_cumulative": 2338
+  },
+  {
+    "date": "2021-02-28",
+    "amount_confirmed": 12386,
+    "amount_deaths": 216,
+    "first_dose_cumulative": 2339
+  },
+  {
+    "date": "2021-03-01",
+    "amount_confirmed": 12409,
+    "amount_deaths": 219,
+    "first_dose_cumulative": 2343
+  },
+  {
+    "date": "2021-03-02",
+    "amount_confirmed": 12574,
+    "amount_deaths": 222,
+    "first_dose_cumulative": 2439
+  },
+  {
+    "date": "2021-03-03",
+    "amount_confirmed": 12675,
+    "amount_deaths": 223,
+    "first_dose_cumulative": 2547
+  },
+  {
+    "date": "2021-03-04",
+    "amount_confirmed": 12675,
+    "amount_deaths": 223,
+    "first_dose_cumulative": 2570
+  },
+  {
+    "date": "2021-03-05",
+    "amount_confirmed": 12926,
+    "amount_deaths": 227,
+    "first_dose_cumulative": 2639
+  },
+  {
+    "date": "2021-03-06",
+    "amount_confirmed": 13083,
+    "amount_deaths": 230,
+    "first_dose_cumulative": 2639
+  },
+  {
+    "date": "2021-03-07",
+    "amount_confirmed": 13236,
+    "amount_deaths": 233,
+    "first_dose_cumulative": 2639
+  },
+  {
+    "date": "2021-03-08",
+    "amount_confirmed": 13288,
+    "amount_deaths": 233,
+    "first_dose_cumulative": 2661
+  },
+  {
+    "date": "2021-03-09",
+    "amount_confirmed": 13391,
+    "amount_deaths": 235,
+    "first_dose_cumulative": 2762
+  },
+  {
+    "date": "2021-03-10",
+    "amount_confirmed": 13572,
+    "amount_deaths": 240,
+    "first_dose_cumulative": 2871
+  },
+  {
+    "date": "2021-03-11",
+    "amount_confirmed": 13572,
+    "amount_deaths": 240,
+    "first_dose_cumulative": 2996
+  },
+  {
+    "date": "2021-03-12",
+    "amount_confirmed": 13928,
+    "amount_deaths": 243,
+    "first_dose_cumulative": 3032
+  },
+  {
+    "date": "2021-03-13",
+    "amount_confirmed": 13927,
+    "amount_deaths": 249,
+    "first_dose_cumulative": 3032
+  },
+  {
+    "date": "2021-03-14",
+    "amount_confirmed": 13962,
+    "amount_deaths": 251,
+    "first_dose_cumulative": 3032
+  },
+  {
+    "date": "2021-03-15",
+    "amount_confirmed": 14166,
+    "amount_deaths": 255,
+    "first_dose_cumulative": 3163
+  },
+  {
+    "date": "2021-03-16",
+    "amount_confirmed": 14166,
+    "amount_deaths": 255,
+    "first_dose_cumulative": 3208
+  },
+  {
+    "date": "2021-03-17",
+    "amount_confirmed": 14298,
+    "amount_deaths": 266,
+    "first_dose_cumulative": 3337
+  },
+  {
+    "date": "2021-03-18",
+    "amount_confirmed": 14370,
+    "amount_deaths": 275,
+    "first_dose_cumulative": 3409
+  },
+  {
+    "date": "2021-03-19",
+    "amount_confirmed": 14386,
+    "amount_deaths": 275,
+    "first_dose_cumulative": 3779
+  },
+  {
+    "date": "2021-03-20",
+    "amount_confirmed": 14467,
+    "amount_deaths": 278,
+    "first_dose_cumulative": 3787
+  },
+  {
+    "date": "2021-03-21",
+    "amount_confirmed": 14800,
+    "amount_deaths": 280,
+    "first_dose_cumulative": 3788
+  },
+  {
+    "date": "2021-03-22",
+    "amount_confirmed": 14801,
+    "amount_deaths": 282,
+    "first_dose_cumulative": 3970
+  },
+  {
+    "date": "2021-03-23",
+    "amount_confirmed": 14955,
+    "amount_deaths": 287,
+    "first_dose_cumulative": 4171
+  },
+  {
+    "date": "2021-03-24",
+    "amount_confirmed": 15010,
+    "amount_deaths": 292,
+    "first_dose_cumulative": 4722
+  },
+  {
+    "date": "2021-03-25",
+    "amount_confirmed": 15094,
+    "amount_deaths": 295,
+    "first_dose_cumulative": 5006
+  },
+  {
+    "date": "2021-03-26",
+    "amount_confirmed": 15434,
+    "amount_deaths": 301,
+    "first_dose_cumulative": 5094
+  },
+  {
+    "date": "2021-03-27",
+    "amount_confirmed": 15505,
+    "amount_deaths": 309,
+    "first_dose_cumulative": 5132
+  },
+  {
+    "date": "2021-03-28",
+    "amount_confirmed": 15532,
+    "amount_deaths": 311,
+    "first_dose_cumulative": 5137
+  },
+  {
+    "date": "2021-03-29",
+    "amount_confirmed": 15537,
+    "amount_deaths": 316,
+    "first_dose_cumulative": 6454
+  },
+  {
+    "date": "2021-03-30",
+    "amount_confirmed": 15543,
+    "amount_deaths": 324,
+    "first_dose_cumulative": 6885
+  },
+  {
+    "date": "2021-03-31",
+    "amount_confirmed": 15973,
+    "amount_deaths": 325,
+    "first_dose_cumulative": 7289
+  },
+  {
+    "date": "2021-04-01",
+    "amount_confirmed": 16188,
+    "amount_deaths": 329,
+    "first_dose_cumulative": 7684
+  },
+  {
+    "date": "2021-04-02",
+    "amount_confirmed": 16399,
+    "amount_deaths": 330,
+    "first_dose_cumulative": 7687
+  },
+  {
+    "date": "2021-04-03",
+    "amount_confirmed": 16515,
+    "amount_deaths": 332,
+    "first_dose_cumulative": 7699
+  },
+  {
+    "date": "2021-04-04",
+    "amount_confirmed": 16554,
+    "amount_deaths": 333,
+    "first_dose_cumulative": 7699
+  },
+  {
+    "date": "2021-04-05",
+    "amount_confirmed": 16557,
+    "amount_deaths": 337,
+    "first_dose_cumulative": 7789
+  },
+  {
+    "date": "2021-04-06",
+    "amount_confirmed": 16649,
+    "amount_deaths": 337,
+    "first_dose_cumulative": 7856
+  },
+  {
+    "date": "2021-04-07",
+    "amount_confirmed": 16709,
+    "amount_deaths": 341,
+    "first_dose_cumulative": 8519
+  },
+  {
+    "date": "2021-04-08",
+    "amount_confirmed": 16751,
+    "amount_deaths": 343,
+    "first_dose_cumulative": 8611
+  },
+  {
+    "date": "2021-04-09",
+    "amount_confirmed": 16854,
+    "amount_deaths": 347,
+    "first_dose_cumulative": 8700
+  },
+  {
+    "date": "2021-04-10",
+    "amount_confirmed": 16894,
+    "amount_deaths": 356,
+    "first_dose_cumulative": 8706
+  },
+  {
+    "date": "2021-04-11",
+    "amount_confirmed": 16977,
+    "amount_deaths": 362,
+    "first_dose_cumulative": 8706
+  },
+  {
+    "date": "2021-04-12",
+    "amount_confirmed": 17120,
+    "amount_deaths": 363,
+    "first_dose_cumulative": 8733
+  },
+  {
+    "date": "2021-04-13",
+    "amount_confirmed": 17285,
+    "amount_deaths": 367,
+    "first_dose_cumulative": 9533
+  },
+  {
+    "date": "2021-04-14",
+    "amount_confirmed": 17302,
+    "amount_deaths": 369,
+    "first_dose_cumulative": 9603
+  },
+  {
+    "date": "2021-04-15",
+    "amount_confirmed": 17511,
+    "amount_deaths": 370,
+    "first_dose_cumulative": 9644
+  },
+  {
+    "date": "2021-04-16",
+    "amount_confirmed": 17557,
+    "amount_deaths": 370,
+    "first_dose_cumulative": 9682
+  },
+  {
+    "date": "2021-04-17",
+    "amount_confirmed": 17562,
+    "amount_deaths": 373,
+    "first_dose_cumulative": 9690
+  },
+  {
+    "date": "2021-04-18",
+    "amount_confirmed": 17738,
+    "amount_deaths": 375,
+    "first_dose_cumulative": 9690
+  },
+  {
+    "date": "2021-04-19",
+    "amount_confirmed": 17717,
+    "amount_deaths": 376,
+    "first_dose_cumulative": 9714
+  },
+  {
+    "date": "2021-04-20",
+    "amount_confirmed": 17745,
+    "amount_deaths": 381,
+    "first_dose_cumulative": 10770
+  },
+  {
+    "date": "2021-04-21",
+    "amount_confirmed": 17866,
+    "amount_deaths": 382,
+    "first_dose_cumulative": 10808
+  },
+  {
+    "date": "2021-04-22",
+    "amount_confirmed": 17922,
+    "amount_deaths": 383,
+    "first_dose_cumulative": 10952
+  },
+  {
+    "date": "2021-04-23",
+    "amount_confirmed": 17945,
+    "amount_deaths": 383,
+    "first_dose_cumulative": 11145
+  },
+  {
+    "date": "2021-04-24",
+    "amount_confirmed": 17994,
+    "amount_deaths": 383,
+    "first_dose_cumulative": 11160
+  },
+  {
+    "date": "2021-04-25",
+    "amount_confirmed": 17992,
+    "amount_deaths": 385,
+    "first_dose_cumulative": 11160
+  },
+  {
+    "date": "2021-04-26",
+    "amount_confirmed": 18066,
+    "amount_deaths": 386,
+    "first_dose_cumulative": 11632
+  },
+  {
+    "date": "2021-04-27",
+    "amount_confirmed": 18136,
+    "amount_deaths": 388,
+    "first_dose_cumulative": 11889
+  },
+  {
+    "date": "2021-04-28",
+    "amount_confirmed": 18169,
+    "amount_deaths": 390,
+    "first_dose_cumulative": 12039
+  },
+  {
+    "date": "2021-04-29",
+    "amount_confirmed": 18244,
+    "amount_deaths": 392,
+    "first_dose_cumulative": 12173
+  },
+  {
+    "date": "2021-04-30",
+    "amount_confirmed": 18244,
+    "amount_deaths": 392,
+    "first_dose_cumulative": 12279
+  },
+  {
+    "date": "2021-05-01",
+    "amount_confirmed": 18387,
+    "amount_deaths": 396,
+    "first_dose_cumulative": 12300
+  },
+  {
+    "date": "2021-05-02",
+    "amount_confirmed": 18387,
+    "amount_deaths": 399,
+    "first_dose_cumulative": 12300
+  },
+  {
+    "date": "2021-05-03",
+    "amount_confirmed": 18410,
+    "amount_deaths": 400,
+    "first_dose_cumulative": 12362
+  },
+  {
+    "date": "2021-05-04",
+    "amount_confirmed": 18536,
+    "amount_deaths": 400,
+    "first_dose_cumulative": 12482
+  },
+  {
+    "date": "2021-05-05",
+    "amount_confirmed": 18566,
+    "amount_deaths": 401,
+    "first_dose_cumulative": 12550
+  },
+  {
+    "date": "2021-05-06",
+    "amount_confirmed": 18587,
+    "amount_deaths": 402,
+    "first_dose_cumulative": 12623
+  },
+  {
+    "date": "2021-05-07",
+    "amount_confirmed": 18718,
+    "amount_deaths": 403,
+    "first_dose_cumulative": 12747
+  },
+  {
+    "date": "2021-05-08",
+    "amount_confirmed": 18718,
+    "amount_deaths": 403,
+    "first_dose_cumulative": 12933
+  },
+  {
+    "date": "2021-05-09",
+    "amount_confirmed": 18718,
+    "amount_deaths": 406,
+    "first_dose_cumulative": 12934
+  },
+  {
+    "date": "2021-05-10",
+    "amount_confirmed": 18789,
+    "amount_deaths": 408,
+    "first_dose_cumulative": 13047
+  },
+  {
+    "date": "2021-05-11",
+    "amount_confirmed": 18856,
+    "amount_deaths": 408,
+    "first_dose_cumulative": 13157
+  },
+  {
+    "date": "2021-05-12",
+    "amount_confirmed": 18898,
+    "amount_deaths": 408,
+    "first_dose_cumulative": 13490
+  },
+  {
+    "date": "2021-05-13",
+    "amount_confirmed": 18973,
+    "amount_deaths": 412,
+    "first_dose_cumulative": 13952
+  },
+  {
+    "date": "2021-05-14",
+    "amount_confirmed": 18975,
+    "amount_deaths": 413,
+    "first_dose_cumulative": 14289
+  },
+  {
+    "date": "2021-05-15",
+    "amount_confirmed": 19078,
+    "amount_deaths": 413,
+    "first_dose_cumulative": 14394
+  },
+  {
+    "date": "2021-05-16",
+    "amount_confirmed": 19078,
+    "amount_deaths": 413,
+    "first_dose_cumulative": 14394
+  },
+  {
+    "date": "2021-05-17",
+    "amount_confirmed": 19109,
+    "amount_deaths": 414,
+    "first_dose_cumulative": 14557
+  },
+  {
+    "date": "2021-05-18",
+    "amount_confirmed": 19202,
+    "amount_deaths": 414,
+    "first_dose_cumulative": 14861
+  },
+  {
+    "date": "2021-05-19",
+    "amount_confirmed": 19283,
+    "amount_deaths": 415,
+    "first_dose_cumulative": 15129
+  },
+  {
+    "date": "2021-05-20",
+    "amount_confirmed": 19359,
+    "amount_deaths": 417,
+    "first_dose_cumulative": 15439
+  },
+  {
+    "date": "2021-05-21",
+    "amount_confirmed": 19430,
+    "amount_deaths": 421,
+    "first_dose_cumulative": 15632
+  },
+  {
+    "date": "2021-05-22",
+    "amount_confirmed": 19467,
+    "amount_deaths": 424,
+    "first_dose_cumulative": 15708
+  },
+  {
+    "date": "2021-05-23",
+    "amount_confirmed": 19469,
+    "amount_deaths": 426,
+    "first_dose_cumulative": 15708
+  },
+  {
+    "date": "2021-05-24",
+    "amount_confirmed": 19608,
+    "amount_deaths": 427,
+    "first_dose_cumulative": 15903
+  },
+  {
+    "date": "2021-05-25",
+    "amount_confirmed": 19669,
+    "amount_deaths": 430,
+    "first_dose_cumulative": 16137
+  },
+  {
+    "date": "2021-05-26",
+    "amount_confirmed": 19739,
+    "amount_deaths": 430,
+    "first_dose_cumulative": 16542
+  },
+  {
+    "date": "2021-05-27",
+    "amount_confirmed": 19739,
+    "amount_deaths": 430,
+    "first_dose_cumulative": 16865
+  },
+  {
+    "date": "2021-05-28",
+    "amount_confirmed": 19747,
+    "amount_deaths": 432,
+    "first_dose_cumulative": 17981
+  },
+  {
+    "date": "2021-05-29",
+    "amount_confirmed": 19933,
+    "amount_deaths": 435,
+    "first_dose_cumulative": 17993
+  },
+  {
+    "date": "2021-05-30",
+    "amount_confirmed": 19934,
+    "amount_deaths": 435,
+    "first_dose_cumulative": 17993
+  },
+  {
+    "date": "2021-05-31",
+    "amount_confirmed": 19958,
+    "amount_deaths": 437,
+    "first_dose_cumulative": 18157
+  },
+  {
+    "date": "2021-06-01",
+    "amount_confirmed": 20095,
+    "amount_deaths": 439,
+    "first_dose_cumulative": 18511
+  },
+  {
+    "date": "2021-06-02",
+    "amount_confirmed": 20181,
+    "amount_deaths": 439,
+    "first_dose_cumulative": 19381
+  },
+  {
+    "date": "2021-06-03",
+    "amount_confirmed": 20181,
+    "amount_deaths": 439,
+    "first_dose_cumulative": 19383
+  },
+  {
+    "date": "2021-06-04",
+    "amount_confirmed": 20280,
+    "amount_deaths": 444,
+    "first_dose_cumulative": 19571
+  },
+  {
+    "date": "2021-06-05",
+    "amount_confirmed": 20276,
+    "amount_deaths": 446,
+    "first_dose_cumulative": 19587
+  },
+  {
+    "date": "2021-06-06",
+    "amount_confirmed": 20276,
+    "amount_deaths": 446,
+    "first_dose_cumulative": 19588
+  },
+  {
+    "date": "2021-06-07",
+    "amount_confirmed": 20275,
+    "amount_deaths": 447,
+    "first_dose_cumulative": 21437
+  },
+  {
+    "date": "2021-06-08",
+    "amount_confirmed": 20275,
+    "amount_deaths": 447,
+    "first_dose_cumulative": 21755
+  },
+  {
+    "date": "2021-06-09",
+    "amount_confirmed": 20503,
+    "amount_deaths": 448,
+    "first_dose_cumulative": 22171
+  },
+  {
+    "date": "2021-06-10",
+    "amount_confirmed": 20552,
+    "amount_deaths": 450,
+    "first_dose_cumulative": 22541
+  },
+  {
+    "date": "2021-06-11",
+    "amount_confirmed": 20582,
+    "amount_deaths": 450,
+    "first_dose_cumulative": 24641
+  },
+  {
+    "date": "2021-06-12",
+    "amount_confirmed": 20744,
+    "amount_deaths": 450,
+    "first_dose_cumulative": 24677
+  },
+  {
+    "date": "2021-06-13",
+    "amount_confirmed": 20744,
+    "amount_deaths": 451,
+    "first_dose_cumulative": 24678
+  },
+  {
+    "date": "2021-06-14",
+    "amount_confirmed": 20834,
+    "amount_deaths": 454,
+    "first_dose_cumulative": 25024
+  },
+  {
+    "date": "2021-06-15",
+    "amount_confirmed": 21002,
+    "amount_deaths": 454,
+    "first_dose_cumulative": 25468
+  },
+  {
+    "date": "2021-06-16",
+    "amount_confirmed": 21031,
+    "amount_deaths": 455,
+    "first_dose_cumulative": 26128
+  },
+  {
+    "date": "2021-06-17",
+    "amount_confirmed": 21108,
+    "amount_deaths": 456,
+    "first_dose_cumulative": 26764
+  },
+  {
+    "date": "2021-06-18",
+    "amount_confirmed": 21211,
+    "amount_deaths": 456,
+    "first_dose_cumulative": 27104
+  },
+  {
+    "date": "2021-06-19",
+    "amount_confirmed": 21235,
+    "amount_deaths": 456,
+    "first_dose_cumulative": 27156
+  },
+  {
+    "date": "2021-06-20",
+    "amount_confirmed": 21235,
+    "amount_deaths": 456,
+    "first_dose_cumulative": 27177
+  },
+  {
+    "date": "2021-06-21",
+    "amount_confirmed": 21270,
+    "amount_deaths": 458,
+    "first_dose_cumulative": 28197
+  },
+  {
+    "date": "2021-06-22",
+    "amount_confirmed": 21341,
+    "amount_deaths": 458,
+    "first_dose_cumulative": 28470
+  },
+  {
+    "date": "2021-06-23",
+    "amount_confirmed": 21342,
+    "amount_deaths": 458,
+    "first_dose_cumulative": 28649
+  },
+  {
+    "date": "2021-06-24",
+    "amount_confirmed": 21423,
+    "amount_deaths": 461,
+    "first_dose_cumulative": 28842
+  },
+  {
+    "date": "2021-06-25",
+    "amount_confirmed": 21475,
+    "amount_deaths": 462,
+    "first_dose_cumulative": 28908
+  },
+  {
+    "date": "2021-06-26",
+    "amount_confirmed": 21502,
+    "amount_deaths": 461,
+    "first_dose_cumulative": 28943
+  },
+  {
+    "date": "2021-06-27",
+    "amount_confirmed": 21503,
+    "amount_deaths": 461,
+    "first_dose_cumulative": 28943
+  },
+  {
+    "date": "2021-06-28",
+    "amount_confirmed": 21600,
+    "amount_deaths": 461,
+    "first_dose_cumulative": 30238
+  },
+  {
+    "date": "2021-06-29",
+    "amount_confirmed": 21599,
+    "amount_deaths": 463,
+    "first_dose_cumulative": 31003
+  },
+  {
+    "date": "2021-06-30",
+    "amount_confirmed": 21639,
+    "amount_deaths": 463,
+    "first_dose_cumulative": 31100
+  },
+  {
+    "date": "2021-07-01",
+    "amount_confirmed": 21684,
+    "amount_deaths": 464,
+    "first_dose_cumulative": 31163
+  },
+  {
+    "date": "2021-07-02",
+    "amount_confirmed": 21746,
+    "amount_deaths": 466,
+    "first_dose_cumulative": 31205
+  },
+  {
+    "date": "2021-07-03",
+    "amount_confirmed": 21780,
+    "amount_deaths": 466,
+    "first_dose_cumulative": 31223
+  },
+  {
+    "date": "2021-07-04",
+    "amount_confirmed": 21795,
+    "amount_deaths": 466,
+    "first_dose_cumulative": 31243
+  },
+  {
+    "date": "2021-07-05",
+    "amount_confirmed": 21818,
+    "amount_deaths": 468,
+    "first_dose_cumulative": 32720
+  },
+  {
+    "date": "2021-07-06",
+    "amount_confirmed": 21845,
+    "amount_deaths": 468,
+    "first_dose_cumulative": 34031
+  },
+  {
+    "date": "2021-07-07",
+    "amount_confirmed": 21875,
+    "amount_deaths": 468,
+    "first_dose_cumulative": 34708
+  },
+  {
+    "date": "2021-07-08",
+    "amount_confirmed": 21897,
+    "amount_deaths": 470,
+    "first_dose_cumulative": 35148
+  },
+  {
+    "date": "2021-07-09",
+    "amount_confirmed": 21921,
+    "amount_deaths": 471,
+    "first_dose_cumulative": 35298
+  },
+  {
+    "date": "2021-07-10",
+    "amount_confirmed": 21921,
+    "amount_deaths": 474,
+    "first_dose_cumulative": 36029
+  },
+  {
+    "date": "2021-07-11",
+    "amount_confirmed": 21921,
+    "amount_deaths": 474,
+    "first_dose_cumulative": 36034
+  },
+  {
+    "date": "2021-07-12",
+    "amount_confirmed": 21951,
+    "amount_deaths": 475,
+    "first_dose_cumulative": 36369
+  },
+  {
+    "date": "2021-07-13",
+    "amount_confirmed": 22013,
+    "amount_deaths": 475,
+    "first_dose_cumulative": 36501
+  },
+  {
+    "date": "2021-07-14",
+    "amount_confirmed": 22042,
+    "amount_deaths": 475,
+    "first_dose_cumulative": 36583
+  },
+  {
+    "date": "2021-07-15",
+    "amount_confirmed": 22062,
+    "amount_deaths": 475,
+    "first_dose_cumulative": 36612
+  },
+  {
+    "date": "2021-07-16",
+    "amount_confirmed": 22079,
+    "amount_deaths": 475,
+    "first_dose_cumulative": 36678
+  },
+  {
+    "date": "2021-07-17",
+    "amount_confirmed": 22078,
+    "amount_deaths": 475,
+    "first_dose_cumulative": 36701
+  },
+  {
+    "date": "2021-07-18",
+    "amount_confirmed": 22078,
+    "amount_deaths": 476,
+    "first_dose_cumulative": 36703
+  },
+  {
+    "date": "2021-07-19",
+    "amount_confirmed": 22098,
+    "amount_deaths": 476,
+    "first_dose_cumulative": 37996
+  },
+  {
+    "date": "2021-07-20",
+    "amount_confirmed": 22116,
+    "amount_deaths": 476,
+    "first_dose_cumulative": 39027
+  },
+  {
+    "date": "2021-07-21",
+    "amount_confirmed": 22143,
+    "amount_deaths": 478,
+    "first_dose_cumulative": 39135
+  },
+  {
+    "date": "2021-07-22",
+    "amount_confirmed": 22160,
+    "amount_deaths": 478,
+    "first_dose_cumulative": 39220
+  },
+  {
+    "date": "2021-07-23",
+    "amount_confirmed": 22164,
+    "amount_deaths": 478,
+    "first_dose_cumulative": 41493
+  },
+  {
+    "date": "2021-07-24",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 41579
+  },
+  {
+    "date": "2021-07-25",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 41581
+  },
+  {
+    "date": "2021-07-26",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 42560
+  },
+  {
+    "date": "2021-07-27",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 42671
+  },
+  {
+    "date": "2021-07-28",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 42775
+  },
+  {
+    "date": "2021-07-29",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 42836
+  },
+  {
+    "date": "2021-07-30",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 44046
+  },
+  {
+    "date": "2021-07-31",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 44062
+  },
+  {
+    "date": "2021-08-01",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 44062
+  },
+  {
+    "date": "2021-08-02",
+    "amount_confirmed": 22165,
+    "amount_deaths": 480,
+    "first_dose_cumulative": 44133
+  },
+  {
+    "date": "2021-08-03",
+    "amount_confirmed": 22297,
+    "amount_deaths": 485,
+    "first_dose_cumulative": 44292
+  },
+  {
+    "date": "2021-08-04",
+    "amount_confirmed": 22297,
+    "amount_deaths": 485,
+    "first_dose_cumulative": 46759
+  },
+  {
+    "date": "2021-08-05",
+    "amount_confirmed": 22315,
+    "amount_deaths": 485,
+    "first_dose_cumulative": 47338
+  },
+  {
+    "date": "2021-08-06",
+    "amount_confirmed": 22323,
+    "amount_deaths": 488,
+    "first_dose_cumulative": 47426
+  },
+  {
+    "date": "2021-08-07",
+    "amount_confirmed": 22325,
+    "amount_deaths": 488,
+    "first_dose_cumulative": 49835
+  },
+  {
+    "date": "2021-08-08",
+    "amount_confirmed": 22325,
+    "amount_deaths": 488,
+    "first_dose_cumulative": 49835
+  },
+  {
+    "date": "2021-08-09",
+    "amount_confirmed": 22354,
+    "amount_deaths": 489,
+    "first_dose_cumulative": 50784
+  },
+  {
+    "date": "2021-08-10",
+    "amount_confirmed": 22369,
+    "amount_deaths": 489,
+    "first_dose_cumulative": 53324
+  },
+  {
+    "date": "2021-08-11",
+    "amount_confirmed": 22378,
+    "amount_deaths": 490,
+    "first_dose_cumulative": 54093
+  },
+  {
+    "date": "2021-08-12",
+    "amount_confirmed": 22384,
+    "amount_deaths": 490,
+    "first_dose_cumulative": 54964
+  },
+  {
+    "date": "2021-08-13",
+    "amount_confirmed": 22391,
+    "amount_deaths": 491,
+    "first_dose_cumulative": 55305
+  },
+  {
+    "date": "2021-08-14",
+    "amount_confirmed": 22391,
+    "amount_deaths": 491,
+    "first_dose_cumulative": 55333
+  },
+  {
+    "date": "2021-08-15",
+    "amount_confirmed": 22391,
+    "amount_deaths": 491,
+    "first_dose_cumulative": 55333
+  },
+  {
+    "date": "2021-08-16",
+    "amount_confirmed": 22406,
+    "amount_deaths": 491,
+    "first_dose_cumulative": 56031
+  },
+  {
+    "date": "2021-08-17",
+    "amount_confirmed": 22424,
+    "amount_deaths": 493,
+    "first_dose_cumulative": 56764
+  },
+  {
+    "date": "2021-08-18",
+    "amount_confirmed": 22441,
+    "amount_deaths": 493,
+    "first_dose_cumulative": 57460
+  },
+  {
+    "date": "2021-08-19",
+    "amount_confirmed": 22441,
+    "amount_deaths": 493,
+    "first_dose_cumulative": 57953
+  },
+  {
+    "date": "2021-08-20",
+    "amount_confirmed": 22459,
+    "amount_deaths": 493,
+    "first_dose_cumulative": 58914
+  },
+  {
+    "date": "2021-08-21",
+    "amount_confirmed": 22458,
+    "amount_deaths": 493,
+    "first_dose_cumulative": 58950
+  },
+  {
+    "date": "2021-08-22",
+    "amount_confirmed": 22458,
+    "amount_deaths": 493,
+    "first_dose_cumulative": 58950
+  },
+  {
+    "date": "2021-08-23",
+    "amount_confirmed": 22477,
+    "amount_deaths": 493,
+    "first_dose_cumulative": 60177
+  },
+  {
+    "date": "2021-08-24",
+    "amount_confirmed": 22490,
+    "amount_deaths": 493,
+    "first_dose_cumulative": 61756
+  },
+  {
+    "date": "2021-08-25",
+    "amount_confirmed": 22493,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 63668
+  },
+  {
+    "date": "2021-08-26",
+    "amount_confirmed": 22496,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 64860
+  },
+  {
+    "date": "2021-08-27",
+    "amount_confirmed": 22496,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 65115
+  },
+  {
+    "date": "2021-08-28",
+    "amount_confirmed": 22501,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 65148
+  },
+  {
+    "date": "2021-08-29",
+    "amount_confirmed": 22501,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 65148
+  },
+  {
+    "date": "2021-08-30",
+    "amount_confirmed": 22508,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 65412
+  },
+  {
+    "date": "2021-08-31",
+    "amount_confirmed": 22511,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 65992
+  },
+  {
+    "date": "2021-09-01",
+    "amount_confirmed": 22516,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 66416
+  },
+  {
+    "date": "2021-09-02",
+    "amount_confirmed": 22531,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 66768
+  },
+  {
+    "date": "2021-09-03",
+    "amount_confirmed": 22545,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 67035
+  },
+  {
+    "date": "2021-09-04",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 67053
+  },
+  {
+    "date": "2021-09-05",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 67062
+  },
+  {
+    "date": "2021-09-06",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 67250
+  },
+  {
+    "date": "2021-09-07",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 67250
+  },
+  {
+    "date": "2021-09-08",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 67646
+  },
+  {
+    "date": "2021-09-09",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 67849
+  },
+  {
+    "date": "2021-09-10",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 68078
+  },
+  {
+    "date": "2021-09-11",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 68111
+  },
+  {
+    "date": "2021-09-12",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 68111
+  },
+  {
+    "date": "2021-09-13",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 68356
+  },
+  {
+    "date": "2021-09-14",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 68620
+  },
+  {
+    "date": "2021-09-15",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 68841
+  },
+  {
+    "date": "2021-09-16",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 69030
+  },
+  {
+    "date": "2021-09-17",
+    "amount_confirmed": 22544,
+    "amount_deaths": 494,
+    "first_dose_cumulative": 69165
+  },
+  {
+    "date": "2021-09-18",
+    "amount_confirmed": 22631,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69168
+  },
+  {
+    "date": "2021-09-19",
+    "amount_confirmed": 22631,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69169
+  },
+  {
+    "date": "2021-09-20",
+    "amount_confirmed": 22631,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69307
+  },
+  {
+    "date": "2021-09-21",
+    "amount_confirmed": 22631,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69465
+  },
+  {
+    "date": "2021-09-22",
+    "amount_confirmed": 22631,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69602
+  },
+  {
+    "date": "2021-09-23",
+    "amount_confirmed": 22631,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69715
+  },
+  {
+    "date": "2021-09-24",
+    "amount_confirmed": 22647,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69783
+  },
+  {
+    "date": "2021-09-25",
+    "amount_confirmed": 22647,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69794
+  },
+  {
+    "date": "2021-09-26",
+    "amount_confirmed": 22647,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69796
+  },
+  {
+    "date": "2021-09-27",
+    "amount_confirmed": 22647,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69880
+  },
+  {
+    "date": "2021-09-28",
+    "amount_confirmed": 22647,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 69998
+  },
+  {
+    "date": "2021-09-29",
+    "amount_confirmed": 22656,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70101
+  },
+  {
+    "date": "2021-09-30",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70168
+  },
+  {
+    "date": "2021-10-01",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70246
+  },
+  {
+    "date": "2021-10-02",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70264
+  },
+  {
+    "date": "2021-10-03",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70264
+  },
+  {
+    "date": "2021-10-04",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70284
+  },
+  {
+    "date": "2021-10-05",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70359
+  },
+  {
+    "date": "2021-10-06",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70435
+  },
+  {
+    "date": "2021-10-07",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70505
+  },
+  {
+    "date": "2021-10-08",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70561
+  },
+  {
+    "date": "2021-10-09",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70586
+  },
+  {
+    "date": "2021-10-10",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70587
+  },
+  {
+    "date": "2021-10-11",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70650
+  },
+  {
+    "date": "2021-10-12",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70678
+  },
+  {
+    "date": "2021-10-13",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70751
+  },
+  {
+    "date": "2021-10-14",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70860
+  },
+  {
+    "date": "2021-10-15",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70920
+  },
+  {
+    "date": "2021-10-16",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70989
+  },
+  {
+    "date": "2021-10-17",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 70989
+  },
+  {
+    "date": "2021-10-18",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71071
+  },
+  {
+    "date": "2021-10-19",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71164
+  },
+  {
+    "date": "2021-10-20",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71248
+  },
+  {
+    "date": "2021-10-21",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71314
+  },
+  {
+    "date": "2021-10-22",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71367
+  },
+  {
+    "date": "2021-10-23",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71393
+  },
+  {
+    "date": "2021-10-24",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71395
+  },
+  {
+    "date": "2021-10-25",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71460
+  },
+  {
+    "date": "2021-10-26",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71540
+  },
+  {
+    "date": "2021-10-27",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71626
+  },
+  {
+    "date": "2021-10-28",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71680
+  },
+  {
+    "date": "2021-10-29",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71690
+  },
+  {
+    "date": "2021-10-30",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71721
+  },
+  {
+    "date": "2021-10-31",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71721
+  },
+  {
+    "date": "2021-11-01",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71772
+  },
+  {
+    "date": "2021-11-02",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71772
+  },
+  {
+    "date": "2021-11-03",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71850
+  },
+  {
+    "date": "2021-11-04",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71924
+  },
+  {
+    "date": "2021-11-05",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 71990
+  },
+  {
+    "date": "2021-11-06",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72020
+  },
+  {
+    "date": "2021-11-07",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72020
+  },
+  {
+    "date": "2021-11-08",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72111
+  },
+  {
+    "date": "2021-11-09",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72184
+  },
+  {
+    "date": "2021-11-10",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72279
+  },
+  {
+    "date": "2021-11-11",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72353
+  },
+  {
+    "date": "2021-11-12",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72405
+  },
+  {
+    "date": "2021-11-13",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72463
+  },
+  {
+    "date": "2021-11-14",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72464
+  },
+  {
+    "date": "2021-11-15",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72464
+  },
+  {
+    "date": "2021-11-16",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72535
+  },
+  {
+    "date": "2021-11-17",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72600
+  },
+  {
+    "date": "2021-11-18",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72670
+  },
+  {
+    "date": "2021-11-19",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72778
+  },
+  {
+    "date": "2021-11-20",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72820
+  },
+  {
+    "date": "2021-11-21",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72820
+  },
+  {
+    "date": "2021-11-22",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72879
+  },
+  {
+    "date": "2021-11-23",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 72952
+  },
+  {
+    "date": "2021-11-24",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73044
+  },
+  {
+    "date": "2021-11-25",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73117
+  },
+  {
+    "date": "2021-11-26",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73176
+  },
+  {
+    "date": "2021-11-27",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73196
+  },
+  {
+    "date": "2021-11-28",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73196
+  },
+  {
+    "date": "2021-11-29",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73268
+  },
+  {
+    "date": "2021-11-30",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73301
+  },
+  {
+    "date": "2021-12-01",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73360
+  },
+  {
+    "date": "2021-12-02",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73414
+  },
+  {
+    "date": "2021-12-03",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73463
+  },
+  {
+    "date": "2021-12-04",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73679
+  },
+  {
+    "date": "2021-12-05",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73679
+  },
+  {
+    "date": "2021-12-06",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73748
+  },
+  {
+    "date": "2021-12-07",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73823
+  },
+  {
+    "date": "2021-12-08",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73889
+  },
+  {
+    "date": "2021-12-09",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 73957
+  },
+  {
+    "date": "2021-12-10",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74003
+  },
+  {
+    "date": "2021-12-11",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74007
+  },
+  {
+    "date": "2021-12-12",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74008
+  },
+  {
+    "date": "2021-12-13",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74039
+  },
+  {
+    "date": "2021-12-14",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74096
+  },
+  {
+    "date": "2021-12-15",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74146
+  },
+  {
+    "date": "2021-12-16",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74186
+  },
+  {
+    "date": "2021-12-17",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74219
+  },
+  {
+    "date": "2021-12-18",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74236
+  },
+  {
+    "date": "2021-12-19",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74252
+  },
+  {
+    "date": "2021-12-20",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74301
+  },
+  {
+    "date": "2021-12-21",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74338
+  },
+  {
+    "date": "2021-12-22",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74374
+  },
+  {
+    "date": "2021-12-23",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74400
+  },
+  {
+    "date": "2021-12-24",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74401
+  },
+  {
+    "date": "2021-12-25",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74401
+  },
+  {
+    "date": "2021-12-26",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74401
+  },
+  {
+    "date": "2021-12-27",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74426
+  },
+  {
+    "date": "2021-12-28",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74468
+  },
+  {
+    "date": "2021-12-29",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74495
+  },
+  {
+    "date": "2021-12-30",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74528
+  },
+  {
+    "date": "2021-12-31",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74531
+  },
+  {
+    "date": "2022-01-01",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74531
+  },
+  {
+    "date": "2022-01-02",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74531
+  },
+  {
+    "date": "2022-01-03",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74539
+  },
+  {
+    "date": "2022-01-04",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74541
+  },
+  {
+    "date": "2022-01-05",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74565
+  },
+  {
+    "date": "2022-01-06",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74596
+  },
+  {
+    "date": "2022-01-07",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74617
+  },
+  {
+    "date": "2022-01-08",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74623
+  },
+  {
+    "date": "2022-01-09",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74623
+  },
+  {
+    "date": "2022-01-10",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74651
+  },
+  {
+    "date": "2022-01-11",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74670
+  },
+  {
+    "date": "2022-01-12",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74684
+  },
+  {
+    "date": "2022-01-13",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74697
+  },
+  {
+    "date": "2022-01-14",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74720
+  },
+  {
+    "date": "2022-01-15",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74722
+  },
+  {
+    "date": "2022-01-16",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74722
+  },
+  {
+    "date": "2022-01-17",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74737
+  },
+  {
+    "date": "2022-01-18",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74762
+  },
+  {
+    "date": "2022-01-19",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74832
+  },
+  {
+    "date": "2022-01-20",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74930
+  },
+  {
+    "date": "2022-01-21",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74988
+  },
+  {
+    "date": "2022-01-22",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74992
+  },
+  {
+    "date": "2022-01-23",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 74992
+  },
+  {
+    "date": "2022-01-24",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75049
+  },
+  {
+    "date": "2022-01-25",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75111
+  },
+  {
+    "date": "2022-01-26",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75174
+  },
+  {
+    "date": "2022-01-27",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75219
+  },
+  {
+    "date": "2022-01-28",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75249
+  },
+  {
+    "date": "2022-01-29",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75250
+  },
+  {
+    "date": "2022-01-30",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75250
+  },
+  {
+    "date": "2022-01-31",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75311
+  },
+  {
+    "date": "2022-02-01",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75361
+  },
+  {
+    "date": "2022-02-02",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75425
+  },
+  {
+    "date": "2022-02-03",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75474
+  },
+  {
+    "date": "2022-02-04",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75527
+  },
+  {
+    "date": "2022-02-05",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75532
+  },
+  {
+    "date": "2022-02-06",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75533
+  },
+  {
+    "date": "2022-02-07",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75600
+  },
+  {
+    "date": "2022-02-08",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75665
+  },
+  {
+    "date": "2022-02-09",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75712
+  },
+  {
+    "date": "2022-02-10",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75752
+  },
+  {
+    "date": "2022-02-11",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75799
+  },
+  {
+    "date": "2022-02-12",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75802
+  },
+  {
+    "date": "2022-02-13",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75802
+  },
+  {
+    "date": "2022-02-14",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75850
+  },
+  {
+    "date": "2022-02-15",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75884
+  },
+  {
+    "date": "2022-02-16",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75916
+  },
+  {
+    "date": "2022-02-17",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75945
+  },
+  {
+    "date": "2022-02-18",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75959
+  },
+  {
+    "date": "2022-02-19",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75963
+  },
+  {
+    "date": "2022-02-20",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75963
+  },
+  {
+    "date": "2022-02-21",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 75998
+  },
+  {
+    "date": "2022-02-22",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76044
+  },
+  {
+    "date": "2022-02-23",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76075
+  },
+  {
+    "date": "2022-02-24",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76094
+  },
+  {
+    "date": "2022-02-25",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76117
+  },
+  {
+    "date": "2022-02-26",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76117
+  },
+  {
+    "date": "2022-02-27",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76117
+  },
+  {
+    "date": "2022-02-28",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76151
+  },
+  {
+    "date": "2022-03-01",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76151
+  },
+  {
+    "date": "2022-03-02",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76172
+  },
+  {
+    "date": "2022-03-03",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76203
+  },
+  {
+    "date": "2022-03-04",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76215
+  },
+  {
+    "date": "2022-03-05",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76215
+  },
+  {
+    "date": "2022-03-06",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76215
+  },
+  {
+    "date": "2022-03-07",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76239
+  },
+  {
+    "date": "2022-03-08",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76257
+  },
+  {
+    "date": "2022-03-09",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76276
+  },
+  {
+    "date": "2022-03-10",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76294
+  },
+  {
+    "date": "2022-03-11",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76309
+  },
+  {
+    "date": "2022-03-12",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76312
+  },
+  {
+    "date": "2022-03-13",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76312
+  },
+  {
+    "date": "2022-03-14",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76328
+  },
+  {
+    "date": "2022-03-15",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76353
+  },
+  {
+    "date": "2022-03-16",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76370
+  },
+  {
+    "date": "2022-03-17",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76388
+  },
+  {
+    "date": "2022-03-18",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76404
+  },
+  {
+    "date": "2022-03-19",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76404
+  },
+  {
+    "date": "2022-03-20",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76404
+  },
+  {
+    "date": "2022-03-21",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76417
+  },
+  {
+    "date": "2022-03-22",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76431
+  },
+  {
+    "date": "2022-03-23",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76451
+  },
+  {
+    "date": "2022-03-24",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76470
+  },
+  {
+    "date": "2022-03-25",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76479
+  },
+  {
+    "date": "2022-03-26",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76479
+  },
+  {
+    "date": "2022-03-27",
+    "amount_confirmed": 22657,
+    "amount_deaths": 497,
+    "first_dose_cumulative": 76479
+  }
+]
